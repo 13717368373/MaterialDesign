@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/game01"
+            android:icon="@drawable/icon_def_avatar"
+            android:title="game01" />
+
+        <item
+            android:id="@+id/game02"
+            android:icon="@drawable/icon_def_avatar"
+            android:title="game02" />
+
+        <item
+            android:id="@+id/game03"
+            android:icon="@drawable/icon_def_avatar"
+            android:title="game03" />
+
+        <item
+            android:id="@+id/game04"
+            android:icon="@drawable/icon_def_avatar"
+            android:title="game04" />
+
+    </group>
+</menu>
